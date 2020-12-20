@@ -46,7 +46,7 @@ Vous trouverez un exemple avec la classe Circle indépendante de processing mais
 
 ### Prise en main
 La prise en main d'*IntellijIDEA* est plus lente que celle d'Eclipse mais lorsqu'il est maitrisé, permet un gain de temps non negligeable.   
-Une liaison avec Git est intégrée de base (Menu VCS) et peut sûrement vous interesser.
+Une liaison avec Git est intégrée de base (Menu Git) et peut sûrement vous interesser.
 En fouillant un peu, vous trouverez beaucoup de choses qui rendent cet IDE vraiment intéressant.
 
 Dans *File->Settings->Live Template* vous trouverez les alias que vous pouvez totalement personnaliser.   
